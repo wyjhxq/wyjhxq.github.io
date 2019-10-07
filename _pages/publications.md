@@ -17,12 +17,11 @@ author_profile: true
 # Selected Conference Paper
 
 <br>
-<b>[Accurate sub-population detection and mapping across single cell experiments with PopCom]</b> <br> 
-<b>Yijie Wang, Jan Honinka, and Teresa M. Przytycka.
-<i>The 23rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2019</b>.
+<b>Accurate sub-population detection and mapping across single cell experiments with PopCom Yijie Wang, Jan Honinka, and Teresa M. Przytycka. <i>The 23rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2019</b></b> <br> 
+
   
 <br>
-<b>[AptaBlocks:  Accelerating the Design of RNA-based Drug Delivery Systems]</b> <br> 
+<b>AptaBlocks:  Accelerating the Design of RNA-based Drug Delivery Systems</b> <br> 
 <b>Yijie Wang, Jan Hoinka, Piotr Swiderski, and Teresa M. Przytycka.
 <i>The 22rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2018</b>.
   
