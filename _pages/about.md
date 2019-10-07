@@ -1,7 +1,7 @@
 
 
 # Brief Biography
-I am currently an assitant professor in the [Computer Science Department](https://cs.indiana.edu/) at Indiana University at Bloomington. I received my Ph.D. degree from Texas A&M University. My research interests include machine learning, Numerical optimzation, Bayesian methods, and their applications in computational biology. 
+I am currently an assitant professor in the [Computer Science Department](https://cs.indiana.edu/) at Indiana University at Bloomington. I received my Ph.D. degree from Texas A&M University. My research interests include machine learning, numerical optimzation, Bayesian methods, graph theory, and their applications in computational biology. 
 
 # To prospective Ph.D. students
 I am recruiting for graduate students. Research Assistantship (RA) positions will be offered to outstanding students who are hard-working and motivated. Interested candidates should email their CVs, transcripts, and brief research statements.
