@@ -17,21 +17,15 @@ author_profile: true
 # Selected Conference Paper
 
 <br>
-<b>Accurate sub-population detection and mapping across single cell experiments with PopCom Yijie Wang, Jan Honinka, and Teresa M. Przytycka. <i>The 23rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2019</b></b> <br> 
-
-  
+<b>Accurate sub-population detection and mapping across single cell experiments with PopCom. Yijie Wang, Jan Honinka, and Teresa M. Przytycka. <i>The 23rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2019</b>.</b> <br> 
+ 
 <br>
-<b>AptaBlocks:  Accelerating the Design of RNA-based Drug Delivery Systems</b> <br> 
-<b>Yijie Wang, Jan Hoinka, Piotr Swiderski, and Teresa M. Przytycka.
-<i>The 22rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2018</b>.
-  
-<br>
-<b>[NetREX: Network Rewiring using EXpression - Towards Context Specific Regulatory Networks]</b> <br> 
-<b>Yijie Wan</g>\*, Dong-Yeon Ch</o>\*, Hangnoh Lee, Brian Oliver, and Teresa M. Przytycka.
-<i>The 21rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2017</b>.<span style="color:red">(Best Paper Award)</span>
+<b>AptaBlocks:  Accelerating the Design of RNA-based Drug Delivery Systems. Yijie Wang, Jan Hoinka, Piotr Swiderski, and Teresa M. Przytycka. <i>The 22rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2018</b>.</b> <br> 
 
 <br>
-<b>[A Novel Subgradient-based Optimization Algorithm for Blockmodel Functional Module Identification]</b> <br> 
-<b>Yijie Wang and Xiaoning Qian.
-<i>The 11th Asia Pacific Bioinformatics Conference</i>. <b>APBC 2013</b>.<span style="color:red">(Best Paper Award)</span>
+<b>NetREX: Network Rewiring using EXpression - Towards Context Specific Regulatory Networks. Yijie Wan</g>\*, Dong-Yeon Ch</o>\*, Hangnoh Lee, Brian Oliver, and Teresa M. Przytycka. <i>The 21rd International Conference on Research in Computational Molecular Biology</i>. <b>RECOMB 2017</b>.<span style="color:red">(Best Paper Award)</span></b> <br> 
+
+<br>
+<b>A Novel Subgradient-based Optimization Algorithm for Blockmodel Functional Module Identification. Yijie Wang and Xiaoning Qian. <i>The 11th Asia Pacific Bioinformatics Conference</i>. <b>APBC 2013</b>.<span style="color:red">(Best Paper Award)</span> </b> <br> 
+
 
