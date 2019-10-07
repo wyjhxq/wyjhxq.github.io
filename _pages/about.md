@@ -1,6 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-
-# Brief Biography
 I am currently an assitant professor in the [Computer Science Department](https://cs.indiana.edu/) at Indiana University at Bloomington. I received my Ph.D. degree from Texas A&M University. My research interests include machine learning, numerical optimzation, Bayesian methods, graph theory, and their applications in computational biology. 
 
 # To prospective Ph.D. students
