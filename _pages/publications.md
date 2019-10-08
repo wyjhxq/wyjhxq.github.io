@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Selected Journal Paper  
-<br><b>[Subpopulation Detection and Their Comparative Analysis across Single-Cell Experiments with scPopCorn](https://www.sciencedirect.com/science/article/pii/S2405471219301887) Yijie Wang, Jan Honinka, and Teresa M. Przytycka. <i>Cell Systems, 8(6): 506-513</i>, 2019 </b> <br>  
+<br><b>[Subpopulation Detection and Their Comparative Analysis across Single-Cell Experiments with scPopCorn](https://www.sciencedirect.com/science/article/pii/S2405471219301887) Yijie Wang, Jan Honinka, and Teresa M. Przytycka. <i>Cell Systems, 8(6): 506-513</i>, 2019 </b> <br>\
 <br><b>[AptaBlocks: Accelerating the Design of RNA-based Drug Delivery Systems](https://academic.oup.com/nar/article/46/16/8133/5050627/) Yijie Wang, Jan Hoinka, Yong Liang, Tomasz Adamus, Piotr Swiderski, and Teresa M. Przytycka. <i>Nucleic Acids Research, 46(16): 8133-8142</i>, 2018</b> <br>  
 <br><b>[Reprogramming of regulatory network using expression uncovers sex-specific gene regulation in Drosophila](https://www.nature.com/articles/s41467-018-06382-z) Yijie Wang\*, Dong-Yeon Cho\*, Hangnoh Lee, Justin Fear, Brian Oliver, and Teresa M. Przytycka. <i>Nature Communications, 9(1): 4061</i>, 2018</b> <br> 
 
