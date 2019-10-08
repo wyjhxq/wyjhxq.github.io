@@ -16,5 +16,5 @@ I am recruiting for graduate students. Research Assistantship (RA) positions wil
 
 
 # Recent News
-* August 1, 2019. Join CS@IUB.
+*August 1, 2019. Join CS@IUB.
 
